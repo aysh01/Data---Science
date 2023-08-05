@@ -1,0 +1,349 @@
+.text {
+    height: 7vh;
+    width: 40vw;
+    margin-left: 25%;
+    margin-top: 5%;
+    text-align: center;
+    font-size: 33px;
+}
+
+h1 {
+    text-align: center;
+    height: 0px;
+}
+
+.submit {
+    height: 42px;
+    width: 8%;
+    font-size: 24px;
+    background: #ff0000f0;
+    color: yellow;
+}
+
+.submit:hover {
+    cursor: pointer;
+    color: white;
+}
+
+.container {
+    height: 7vh;
+    width: 97vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 23vh;
+    margin-left: -73vw;
+    /* background: black; */
+    /* border: 1px solid; */
+}
+
+#die-1 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 0vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-2 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 10vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-3 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 20vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-4 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 30vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-5 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 40vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-6 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 50vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-7 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 60vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-8 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 70vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-9 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 80vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-10 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 70vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-11 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 50vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-12 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 30vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-13 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 50vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-14 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 28vh;
+    margin-left: 60.1vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-15 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 70vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-16 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 50vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-17 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 28vh;
+    margin-left: 50vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-18 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 28vh;
+    margin-left: 40vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-19 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 28vh;
+    margin-left: 30vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-20 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 30vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-21 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 28vh;
+    margin-left: 20vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-22 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 20vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-23 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 30vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-24 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 28vh;
+    margin-left: 10vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-25 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 10vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}
+
+#die-26 {
+    height: 28vh;
+    width: 10vw;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0vh;
+    margin-left: 20vw;
+    /* background: black; */
+    border: 1px solid;
+    display: none;
+}

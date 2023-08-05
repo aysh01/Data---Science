@@ -1,0 +1,19 @@
+div {
+    height: 7vh;
+    width: 48vw;
+    margin-left: 50%;
+    margin-top: -7%;
+    text-align: center;
+    font-size: 27px;
+}
+
+.gif {
+    height: 4vh;
+    width: 5vw;
+    margin-left: -53vw;
+}
+
+a:hover {
+    color: rebeccapurple;
+    cursor: pointer;
+}
