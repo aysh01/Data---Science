@@ -11,3 +11,6 @@ x2=x.plot(a,c,'ro-')
 x.legend(labels=('Cos function','Sin Function'),loc='upper left')
 x.set_title("Trigonometric functions")
 plt.show()
+
+#LinkedIn Post :
+https://www.linkedin.com/posts/aayush-kantak-88a7b4271_python-datascience-matplotlib-activity-7093588583386611712-MhqA?utm_source=share&utm_medium=member_android
