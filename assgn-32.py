@@ -7,6 +7,3 @@ b=[6700,5600,5000,5200]
 
 x=pd.Series(b,a)
 print(x)
-
-#Modify the data in section 'A' as 7600 and for
-#section 'C' as 7000.
